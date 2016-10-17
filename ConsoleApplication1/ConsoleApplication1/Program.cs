@@ -13,6 +13,7 @@ namespace ConsoleApplication1
             int k = 9;
             int h = 7;
             int m = 9;
+            Console.WriteLine("hi");
         }
     }
 }
